@@ -1,0 +1,13 @@
+header {color:rgb(80, 27, 6); 
+    background-color: rgb(66, 211, 90);
+      padding-bottom: 40px;
+      display:flex;
+    justify-content: space-around;}
+
+main{color:rgb(37, 47, 185);
+     background-color: rgb(189, 161, 36, 0.781);
+    padding-bottom: 1200px;}
+
+footer{color:rgb(245, 150, 42);
+     background-color: rgb(148, 43, 25);
+     padding-bottom: 40px;}
